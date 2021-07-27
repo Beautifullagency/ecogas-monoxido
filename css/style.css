@@ -13,6 +13,9 @@ body {
   background-color: #f8f8f8;
   box-sizing: border-box;
 }
+a::hover {
+  color: #004C97 !important;
+}
 .body {
   background-color: #f8f8f8;
 }
@@ -59,6 +62,9 @@ body {
 }
 .color3{
   color: #5D5D5D !important;
+}
+.color4{
+  color: #a9a9a9;
 }
 
 .li-color {
@@ -118,5 +124,23 @@ left: 100px;
 }
 
 .footer {
-  
+  background-color: #272727;
+
+}
+
+.logo-circular {
+  width: 10% !important;
+  position: relative;
+  top: -58px;
+  right: 0px;
+  left: 90%;
+  z-index: 2;
+}
+.pull-right {
+  float: right!important;
+}
+.footer-link a {
+  color: #a9a9a9;
+  text-decoration: none;
+  font-size: 14px;
 }

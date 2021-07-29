@@ -32,25 +32,25 @@ a::hover {
   background: transparent;
 }
 .mo-20 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: min(1.4vw, 20px);
 }
 .mo-24 {
-  font-family: 'Nunito Sans';
-  font-size: min(2.1vw, 24px);
+  font-family: 'Open Sans', sans-serif;
+  font-size: min(2.1vw, 20px);
 }
 .mo-30 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 500;
-  font-size: min(2.7vw, 30px);
+  font-size: min(2.7vw, 24px);
 }
 .mo-32 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 900;
-  font-size: min(2.7vw, 32px);
+  font-size: min(2.7vw, 30px);
 }
 .mo-40 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 900;
   font-size: min(2.4vw, 40px);
 }
@@ -176,25 +176,25 @@ left: 100px;
   }
 
   .mo-20 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: min(1.4vw, 20px);
   }
   .mo-24 {
-    font-family: 'Nunito Sans';
+    font-family: 'Open Sans', sans-serif;
     font-size: min(3vw, 24px);
   }
   .mo-30 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 500;
     font-size: min(4vw, 30px);
   }
   .mo-32 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 900;
     font-size: min(4.1vw, 32px);
   }
   .mo-40 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 900;
     font-size: min(5vw, 40px);
   }
